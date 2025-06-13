@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin:Kenny Arevalo](https://img.shields.io/badge/-kennyarevalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennyarevalo/)](https://www.linkedin.com/in/kennyarevalo/)
-[![GitHub kenny32210](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub kenny32210](https://img.shields.io/github/followers/kenny32210?label=follow&style=social)](https://github.com/kenny32210)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
