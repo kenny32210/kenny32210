@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <h1 align="center" id="dynamicText">Hola, Me llamo German Kenny 🌊</h1>
-    <h4 align="center"><i>Want to know the truth? Jesus is KIng!<span style="font-size:0.5em;"></span></i></h4>
+    <h4 align="center"><i>Programador en proceso..!<span style="font-size:0.5em;"></span></i></h4>
     <p align="center">
     </p>
 
