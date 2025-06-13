@@ -10,16 +10,10 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  Genero: "Hombre",
+  code: [Javascript, HTML, CSS, Java],
+  Herramientas: [ Node],
+ challenge: "Aprender la logica de los lenguajes de programacion y hacer proyectos con ella"
 }
 ```
 
