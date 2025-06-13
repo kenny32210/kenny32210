@@ -38,7 +38,8 @@
       src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"
   />
 </div>
-<h3 align="left">Redes</h3>
+<h3 align="left">Don't be shy <3</h3>
+
 <p align="left">
     <a href-"https://www.instagram.com/solomon_lijo/">
       <img
