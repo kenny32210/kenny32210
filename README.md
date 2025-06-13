@@ -16,29 +16,18 @@
  <img
       src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
   />
- <img
-  />
- <img
-     
-  />
+ 
  <img
       src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
   />
- <img
-      
-  />
+
  <img
       src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
   />
  <img
-     
-  />
- <img
       src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
   />
- <img
-     
-  />
+ 
  <img
       src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
   />
@@ -46,22 +35,7 @@
     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
   />
  <img
- 
-  />
- <img
-     
-  />
- <img
       src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"
-  />
-  <img
-   
-  />
-  <img
-   
-  />
- <img
-      
   />
 </div>
 <h3 align="left">Don't be shy <3</h3>
