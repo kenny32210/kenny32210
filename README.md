@@ -43,6 +43,7 @@
 <p align="left">
     <a href-"https://www.instagram.com/solomon_lijo/">
       <img
-           
+                    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badage&logo=instgram&logoColor=white"
+
     />
     </html>
