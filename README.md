@@ -5,7 +5,7 @@
     <p align="center">
     </p>
 
-<h3 align="left">stack</h3>
+<h3 align="left"> MI stack</h3>
 <div style="display: flex">
   <img
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -28,16 +28,5 @@
 </div>
 <h3 align="left">Don't be shy <3</h3>
 
-<p align="left">
-    <a href="https://www.instagram.com/solomon_lijo/">
-      <img
-           src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-    </a>
-    <a href="YOUR_LINKEDIN_PROFILE_URL">
-      <img
-           src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-    </a>
-</p>
+
 </html>
