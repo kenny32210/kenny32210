@@ -26,7 +26,7 @@
       src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
   />
 </div>
-<h3 align="left">Don't be shy <3</h3>
+
 
 
 </html>
